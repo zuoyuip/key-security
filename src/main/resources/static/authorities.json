@@ -1,0 +1,254 @@
+[
+  {
+    "id": "system_vc",
+    "title": "首页",
+    "name": "系统首页",
+    "icon": "el-icon-s-home",
+    "url": "system/index"
+  },
+  {
+    "id": "rotations_entrepreneurial",
+    "title": "首页管理",
+    "name": "轮播图-创业端管理",
+    "icon": "el-icon-s-home",
+    "url": "rotations/entrepreneurial"
+  },
+  {
+    "id": "rotations_investment",
+    "title": "首页管理",
+    "name": "轮播图-投资端管理",
+    "icon": "el-icon-s-home",
+    "url": "rotations/investment"
+  },
+  {
+    "id": "project_startup",
+    "title": "项目管理",
+    "name": "创业项目管理",
+    "icon": "el-icon-s-cooperation",
+    "url": "project/startup"
+  },
+  {
+    "id": "project_resale",
+    "title": "项目管理",
+    "name": "转售项目管理",
+    "icon": "el-icon-s-cooperation",
+    "url": "project/resale"
+  },
+  {
+    "id": "project_tag",
+    "title": "项目管理",
+    "name": "行业标签管理",
+    "icon": "el-icon-s-cooperation",
+    "url": "project/tag"
+  },
+  {
+    "id": "order_members",
+    "title": "订单管理",
+    "name": "会员订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/members"
+  },
+  {
+    "id": "order_sponsor",
+    "title": "订单管理",
+    "name": "天才保荐人订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/sponsor"
+  },
+  {
+    "id": "order_referees",
+    "title": "订单管理",
+    "name": "天才推荐人订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/referees"
+  },
+  {
+    "id": "order_conference",
+    "title": "订单管理",
+    "name": "会议室预约订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/conference"
+  },
+  {
+    "id": "order_roadshow",
+    "title": "订单管理",
+    "name": "路演活动订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/roadshow"
+  },
+  {
+    "id": "order_training",
+    "title": "订单管理",
+    "name": "企业培训订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/training"
+  },
+  {
+    "id": "order_video",
+    "title": "订单管理",
+    "name": "视频订单管理",
+    "icon": "el-icon-s-claim",
+    "url": "order/video"
+  },
+  {
+    "id": "consumer_entrepreneur",
+    "title": "用户管理",
+    "name": "创业者会员管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/entrepreneur"
+  },
+  {
+    "id": "consumer_investor",
+    "title": "用户管理",
+    "name": "投资者会员管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/investor"
+  },
+  {
+    "id": "consumer_sponsor",
+    "title": "用户管理",
+    "name": "天才保荐人管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/sponsor"
+  },
+  {
+    "id": "consumer_referrer",
+    "title": "用户管理",
+    "name": "天才推荐人管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/referrer"
+  },
+  {
+    "id": "consumer_convener",
+    "title": "用户管理",
+    "name": "天才召集人管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/convener"
+  },
+  {
+    "id": "consumer_foreigner",
+    "title": "用户管理",
+    "name": "非大陆会员管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/foreigner"
+  },
+  {
+    "id": "consumer_ordinary",
+    "title": "用户管理",
+    "name": "普通用户管理",
+    "icon": "el-icon-s-custom",
+    "url": "consumer/ordinary"
+  },
+  {
+    "id": "incubator_content",
+    "title": "孵化器管理",
+    "name": "孵化器内容管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/content"
+  },
+  {
+    "id": "incubator_company",
+    "title": "孵化器管理",
+    "name": "入住企业管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/company"
+  },
+  {
+    "id": "incubator_entrepreneurial",
+    "title": "孵化器管理",
+    "name": "创业端轮播图管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/rotations/entrepreneurial"
+  },
+  {
+    "id": "incubator_investment",
+    "title": "孵化器管理",
+    "name": "投资端轮播图管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/rotations/investment"
+  },
+  {
+    "id": "incubator_conference",
+    "title": "孵化器管理",
+    "name": "会议室管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/conference"
+  },
+  {
+    "id": "incubator_roadshow",
+    "title": "孵化器管理",
+    "name": "路演管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/roadshow"
+  },
+  {
+    "id": "incubator_course",
+    "title": "孵化器管理",
+    "name": "课程管理",
+    "icon": "el-icon-s-help",
+    "url": "incubator/course"
+  },
+  {
+    "id": "dynamic_content",
+    "title": "动态管理",
+    "name": "动态内容管理",
+    "icon": "el-icon-s-opportunity",
+    "url": "dynamic/content"
+  },
+  {
+    "id": "feedback_content",
+    "title": "反馈管理",
+    "name": "反馈内容管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/content"
+  },
+  {
+    "id": "feedback_investor",
+    "title": "反馈管理",
+    "name": "举报投资人管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/investor"
+  },
+  {
+    "id": "feedback_project",
+    "title": "反馈管理",
+    "name": "举报项目管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/project"
+  },
+  {
+    "id": "feedback_information",
+    "title": "反馈管理",
+    "name": "举报消息管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/information"
+  },
+  {
+    "id": "feedback_dynamic",
+    "title": "反馈管理",
+    "name": "举报动态管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/dynamic"
+  },
+  {
+    "id": "feedback_tag",
+    "title": "反馈管理",
+    "name": "举报标签管理",
+    "icon": "el-icon-s-promotion",
+    "url": "feedback/tag"
+  },
+  {
+    "id": "setting_sms",
+    "title": "设置管理",
+    "name": "短信消息管理",
+    "icon": "el-icon-s-tools",
+    "url": "setting/sms"
+  },
+  {
+    "id": "setting_station",
+    "title": "设置管理",
+    "name": "站内消息管理",
+    "icon": "el-icon-s-tools",
+    "url": "setting/station"
+  }
+]

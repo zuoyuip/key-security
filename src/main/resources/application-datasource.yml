@@ -1,0 +1,43 @@
+spring:
+  autoconfigure:
+    exclude: com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    dynamic:
+      primary: master_capital
+      datasource:
+        #创投数据源
+        master_capital:
+          url: jdbc:mysql://192.168.1.154:3306/gventurecapitaldb?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
+          username: root
+          password: 123456
+          driver-class-name: com.mysql.jdbc.Driver
+        #用户数据源
+        master_user:
+          url: jdbc:mysql://192.168.1.154:3306/guserdb2?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
+          username: root
+          password: 123456
+          driver-class-name: com.mysql.jdbc.Driver
+        #管理员数据源
+        slave_management:
+          url: jdbc:mysql://192.168.1.172:3306/gadmindb?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
+          username: root
+          password: 123456
+          driver-class-name: com.mysql.jdbc.Driver
+    druid: # 以下是连接池配置
+      initial-size: 2
+      max-active: 20
+      min-idle: 10
+      max-wait: 30000
+      pool-prepared-statements: true
+      max-open-prepared-statements: 30
+      remove-abandoned: true
+      remove-abandoned-timeout: 300
+      log-abandoned: false
+      min-evictable-idle-time-millis: 30000
+      test-while-idle: true
+      test-on-borrow: true
+      test-on-return: false
+      validation-query: select 1 from dual
+      validation-query-timeout: 1
+      time-between-eviction-runs-millis: 30000

@@ -1,0 +1,2 @@
+INSERT INTO gadmindb.adminauthority (uid, roleuid, roleid, url, name, `desc`, status, createtime, updatetime) VALUES ('uid00000000000000000000000000000', 'uid00000000000000000000000000000', 'ROLE_USER', '.*', '普通用户权限', '权限描述', 1, '2013-11-23 17:05:12', '2013-11-23 17:05:12');
+INSERT INTO gadmindb.adminauthority (uid, roleuid, roleid, url, name, `desc`, status, createtime, updatetime) VALUES ('x3483b04795f48d0a70b1f9004c1f980', 'ee483b04795f48d0a70b1f9004c1fasw', 'ROLE_ADMIN', '.*', '管理员权限', '权限描述', 1, '2013-11-23 17:05:12', '2013-11-23 17:05:12');

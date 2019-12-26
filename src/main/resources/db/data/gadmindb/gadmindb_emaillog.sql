@@ -1,0 +1,1 @@
+INSERT INTO gadmindb.emaillog (uid, adminid, title, content, receiver, sender, createtime, updatetime) VALUES ('93483b04795f48d0a70b1f9004c1f98f', '93483b04795f48d0a70b1f9004c1f98f', '吃饭', '坏人', '{"uid11111111111111111111111111111":"好人"}', '好人', '2016-04-28 16:57:01', '2016-05-23 17:00:20');

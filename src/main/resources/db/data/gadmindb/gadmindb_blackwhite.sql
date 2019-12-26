@@ -1,0 +1,2 @@
+INSERT INTO gadmindb.blackwhite (uid, types, sourcename, author, operator, remarks, createtime) VALUES ('uid00000000000000000000000000000', 1, '天才网', 'tf', 'tianfang', '本网站转载都需要交纳版权费', '2019-07-19 17:05:12');
+INSERT INTO gadmindb.blackwhite (uid, types, sourcename, author, operator, remarks, createtime) VALUES ('x3483b04795f48d0a70b1f9004c1f98s', 1, '天才网', 'tf', 'tf', '本网站转载都需要交纳版权费', '2019-07-19 17:05:12');
